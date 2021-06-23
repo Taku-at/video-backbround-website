@@ -1,0 +1,26 @@
+input[type="text"],
+input[type="email"] {
+    padding: 10px;
+    margin: 0 0 10px;
+    height: 40px;
+    padding: 0 15px;
+    font-weight: 600;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    background-color: #eee;
+    border-bottom: 1px solid #000;
+    text-transform: uppercase;
+}
+
+textarea {
+    width: 100%;
+    padding: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    background-color: #eee;
+    border-bottom: 1px solid #000;
+    text-transform: uppercase;
+}
